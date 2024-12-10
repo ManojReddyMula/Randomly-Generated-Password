@@ -1,0 +1,15 @@
+
+
+*{
+  background-color: #cee4f9;
+}
+
+h1 {
+  color: #e6ecf4;
+}
+
+.card {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
